@@ -1,0 +1,2 @@
+# service.misskey.yancya.club
+Misskeyやんちゃクラブの運営に関するドキュメントを管理したり公開したりするリポジトリ
